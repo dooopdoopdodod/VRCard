@@ -1,2 +1,4 @@
-# VRCard
-VRCard made in Unity
+# webXR Card
+webXR made in Unity with Vuforia engine
+
+https://developer.vuforia.com/
